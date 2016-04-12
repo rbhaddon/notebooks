@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rbhaddon/notebooks)
+
 IPython Notebooks
 =================
 
